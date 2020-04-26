@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: 여기는 스크랩 저장소입니다.
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+스크랩할것들이 저장됩니다. 
 
