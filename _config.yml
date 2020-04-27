@@ -40,3 +40,5 @@ theme_colors:
   - red
   - white
   - yellow
+
+theme: jekyll-theme-minimal
